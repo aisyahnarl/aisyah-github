@@ -1,0 +1,810 @@
+{
+    "Masyarakat": [
+        {
+            "id": 1,
+            "nama": "Andi",
+            "laporan": "Jalan berlubang parah di depan sekolah",
+            "foto": "foto1.jpg",
+            "video": "video1.mp4",
+            "lokasi_GPS": "-6.200000, 106.816666",
+            "waktu": "2024-04-01T08:30:00Z"
+        },
+        {
+            "id": 2,
+            "nama": "Budi",
+            "laporan": "Sampah menumpuk di taman kota",
+            "foto": "foto2.jpg",
+            "video": "video2.mp4",
+            "lokasi_GPS": "-6.210000, 106.820000",
+            "waktu": "2024-04-01T09:00:00Z"
+        },
+        {
+            "id": 3,
+            "nama": "Citra",
+            "laporan": "Lampu jalan mati di perempatan utama",
+            "foto": "foto3.jpg",
+            "video": "video3.mp4",
+            "lokasi_GPS": "-6.215000, 106.825000",
+            "waktu": "2024-04-01T09:30:00Z"
+        },
+        {
+            "id": 4,
+            "nama": "Dewi",
+            "laporan": "Air menggenang setelah hujan deras",
+            "foto": "foto4.jpg",
+            "video": "video4.mp4",
+            "lokasi_GPS": "-6.220000, 106.830000",
+            "waktu": "2024-04-01T10:00:00Z"
+        },
+        {
+            "id": 5,
+            "nama": "Eko",
+            "laporan": "Pohon tumbang menghalangi jalan",
+            "foto": "foto5.jpg",
+            "video": "video5.mp4",
+            "lokasi_GPS": "-6.225000, 106.835000",
+            "waktu": "2024-04-01T10:30:00Z"
+        },
+        {
+            "id": 6,
+            "nama": "Fajar",
+            "laporan": "Kebocoran pipa air di jalan utama",
+            "foto": "foto6.jpg",
+            "video": "video6.mp4",
+            "lokasi_GPS": "-6.230000, 106.840000",
+            "waktu": "2024-04-01T11:00:00Z"
+        },
+        {
+            "id": 7,
+            "nama": "Gina",
+            "laporan": "Kebisingan dari konstruksi malam hari",
+            "foto": "foto7.jpg",
+            "video": "video7.mp4",
+            "lokasi_GPS": "-6.235000, 106.845000",
+            "waktu": "2024-04-01T11:30:00Z"
+        },
+        {
+            "id": 8,
+            "nama": "Hadi",
+            "laporan": "Parkir liar di trotoar",
+            "foto": "foto8.jpg",
+            "video": "video8.mp4",
+            "lokasi_GPS": "-6.240000, 106.850000",
+            "waktu": "2024-04-01T12:00:00Z"
+        },
+        {
+            "id": 9,
+            "nama": "Intan",
+            "laporan": "Kebakaran sampah di area pemukiman",
+            "foto": "foto9.jpg",
+            "video": "video9.mp4",
+            "lokasi_GPS": "-6.245000, 106.855000",
+            "waktu": "2024-04-01T12:30:00Z"
+        },
+        {
+            "id": 10,
+            "nama": "Joko",
+            "laporan": "Jalan berlubang di jalan raya",
+            "foto": "foto10.jpg",
+            "video": "video10.mp4",
+            "lokasi_GPS": "-6.250000, 106.860000",
+            "waktu": "2024-04-01T13:00:00Z"
+        },
+        {
+            "id": 11,
+            "nama": "Kiki",
+            "laporan": "Lampu lalu lintas rusak",
+            "foto": "foto11.jpg",
+            "video": "video11.mp4",
+            "lokasi_GPS": "-6.255000, 106.865000",
+            "waktu": "2024-04-01T13:30:00Z"
+        },
+        {
+            "id": 12,
+            "nama": "Lina",
+            "laporan": "Banjir di jalan utama",
+            "foto": "foto12.jpg",
+            "video": "video12.mp4",
+            "lokasi_GPS": "-6.260000, 106.870000",
+            "waktu": "2024-04-01T14:00:00Z"
+        },
+        {
+            "id": 13,
+            "nama": "Mira",
+            "laporan": "Kebocoran gas di rumah warga",
+            "foto": "foto13.jpg",
+            "video": "video13.mp4",
+            "lokasi_GPS": "-6.265000, 106.875000",
+            "waktu": "2024-04-01T14:30:00Z"
+        },
+        {
+            "id": 14,
+            "nama": "Nina",
+            "laporan": "Sampah berserakan di sungai",
+            "foto": "foto14.jpg",
+            "video": "video14.mp4",
+            "lokasi_GPS": "-6.270000, 106.880000",
+            "waktu": "2024-04-01T15:00:00Z"
+        },
+        {
+            "id": 15,
+            "nama": "Oki",
+            "laporan": "Kebisingan dari pabrik",
+            "foto": "foto15.jpg",
+            "video": "video15.mp4",
+            "lokasi_GPS": "-6.275000, 106.885000",
+            "waktu": "2024-04-01T15:30:00Z"
+        },
+        {
+            "id": 16,
+            "nama": "Putri",
+            "laporan": "Jalan rusak parah di perumahan",
+            "foto": "foto16.jpg",
+            "video": "video16.mp4",
+            "lokasi_GPS": "-6.280000, 106.890000",
+            "waktu": "2024-04-01T16:00:00Z"
+        },
+        {
+            "id": 17,
+            "nama": "Qori",
+            "laporan": "Pohon tumbang di taman kota",
+            "foto": "foto17.jpg",
+            "video": "video17.mp4",
+            "lokasi_GPS": "-6.285000, 106.895000",
+            "waktu": "2024-04-01T16:30:00Z"
+        },
+        {
+            "id": 18,
+            "nama": "Rina",
+            "laporan": "Lampu jalan mati di komplek perumahan",
+            "foto": "foto18.jpg",
+            "video": "video18.mp4",
+            "lokasi_GPS": "-6.290000, 106.900000",
+            "waktu": "2024-04-01T17:00:00Z"
+        },
+        {
+            "id": 19,
+            "nama": "Sari",
+            "laporan": "Sampah menumpuk di pasar tradisional",
+            "foto": "foto19.jpg",
+            "video": "video19.mp4",
+            "lokasi_GPS": "-6.295000, 106.905000",
+            "waktu": "2024-04-01T17:30:00Z"
+        },
+        {
+            "id": 20,
+            "nama": "Tono",
+            "laporan": "Kebocoran pipa gas di jalan utama",
+            "foto": "foto20.jpg",
+            "video": "video20.mp4",
+            "lokasi_GPS": "-6.300000, 106.910000",
+            "waktu": "2024-04-01T18:00:00Z"
+        },
+        {
+            "id": 21,
+            "nama": "Umi",
+            "laporan": "Parkir liar di depan sekolah",
+            "foto": "foto21.jpg",
+            "video": "video21.mp4",
+            "lokasi_GPS": "-6.305000, 106.915000",
+            "waktu": "2024-04-01T18:30:00Z"
+        },
+        {
+            "id": 22,
+            "nama": "Vina",
+            "laporan": "Jalan berlubang di jalan perkampungan",
+            "foto": "foto22.jpg",
+            "video": "video22.mp4",
+            "lokasi_GPS": "-6.310000, 106.920000",
+            "waktu": "2024-04-01T19:00:00Z"
+        },
+        {
+            "id": 23,
+            "nama": "Wawan",
+            "laporan": "Lampu lalu lintas mati di perempatan",
+            "foto": "foto23.jpg",
+            "video": "video23.mp4",
+            "lokasi_GPS": "-6.315000, 106.925000",
+            "waktu": "2024-04-01T19:30:00Z"
+        },
+        {
+            "id": 24,
+            "nama": "Xena",
+            "laporan": "Kebakaran hutan kecil di pinggir kota",
+            "foto": "foto24.jpg",
+            "video": "video24.mp4",
+            "lokasi_GPS": "-6.320000, 106.930000",
+            "waktu": "2024-04-01T20:00:00Z"
+        },
+        {
+            "id": 25,
+            "nama": "Yusuf",
+            "laporan": "Sampah berserakan di jalan tol",
+            "foto": "foto25.jpg",
+            "video": "video25.mp4",
+            "lokasi_GPS": "-6.325000, 106.935000",
+            "waktu": "2024-04-01T20:30:00Z"
+        }
+    ],
+    "Instansi_Pemerintah": [
+        {
+            "id": 1,
+            "laporan_id": 1,
+            "status": "Dalam proses perbaikan",
+            "feedback": "Tim teknis sudah dijadwalkan untuk perbaikan jalan berlubang"
+        },
+        {
+            "id": 2,
+            "laporan_id": 2,
+            "status": "Selesai",
+            "feedback": "Sampah sudah dibersihkan oleh petugas kebersihan"
+        },
+        {
+            "id": 3,
+            "laporan_id": 3,
+            "status": "Dalam proses",
+            "feedback": "Lampu jalan akan diperbaiki dalam 2 hari ke depan"
+        },
+        {
+            "id": 4,
+            "laporan_id": 4,
+            "status": "Dalam pengawasan",
+            "feedback": "Drainase sedang diperiksa untuk mengatasi genangan air"
+        },
+        {
+            "id": 5,
+            "laporan_id": 5,
+            "status": "Selesai",
+            "feedback": "Pohon tumbang sudah dipotong dan dibersihkan"
+        },
+        {
+            "id": 6,
+            "laporan_id": 6,
+            "status": "Dalam proses",
+            "feedback": "Pipa bocor sedang diperbaiki oleh petugas"
+        },
+        {
+            "id": 7,
+            "laporan_id": 7,
+            "status": "Dalam pengawasan",
+            "feedback": "Kebisingan akan ditindaklanjuti sesuai aturan"
+        },
+        {
+            "id": 8,
+            "laporan_id": 8,
+            "status": "Selesai",
+            "feedback": "Parkir liar sudah ditertibkan"
+        },
+        {
+            "id": 9,
+            "laporan_id": 9,
+            "status": "Dalam proses",
+            "feedback": "Tim pemadam kebakaran sudah dikerahkan"
+        },
+        {
+            "id": 10,
+            "laporan_id": 10,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan jalan berlubang sedang dijadwalkan"
+        },
+        {
+            "id": 11,
+            "laporan_id": 11,
+            "status": "Dalam proses",
+            "feedback": "Lampu lalu lintas akan diperbaiki segera"
+        },
+        {
+            "id": 12,
+            "laporan_id": 12,
+            "status": "Dalam pengawasan",
+            "feedback": "Penanganan banjir sedang direncanakan"
+        },
+        {
+            "id": 13,
+            "laporan_id": 13,
+            "status": "Selesai",
+            "feedback": "Kebocoran gas sudah ditangani"
+        },
+        {
+            "id": 14,
+            "laporan_id": 14,
+            "status": "Dalam proses",
+            "feedback": "Pembersihan sungai sedang dilakukan"
+        },
+        {
+            "id": 15,
+            "laporan_id": 15,
+            "status": "Dalam pengawasan",
+            "feedback": "Kebisingan dari pabrik akan ditindaklanjuti"
+        },
+        {
+            "id": 16,
+            "laporan_id": 16,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan jalan rusak sedang dijadwalkan"
+        },
+        {
+            "id": 17,
+            "laporan_id": 17,
+            "status": "Selesai",
+            "feedback": "Pohon tumbang sudah dibersihkan"
+        },
+        {
+            "id": 18,
+            "laporan_id": 18,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan lampu jalan sedang dilakukan"
+        },
+        {
+            "id": 19,
+            "laporan_id": 19,
+            "status": "Selesai",
+            "feedback": "Sampah di pasar sudah dibersihkan"
+        },
+        {
+            "id": 20,
+            "laporan_id": 20,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan pipa gas sedang dilakukan"
+        },
+        {
+            "id": 21,
+            "laporan_id": 21,
+            "status": "Selesai",
+            "feedback": "Parkir liar sudah ditertibkan"
+        },
+        {
+            "id": 22,
+            "laporan_id": 22,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan jalan berlubang sedang dijadwalkan"
+        },
+        {
+            "id": 23,
+            "laporan_id": 23,
+            "status": "Dalam proses",
+            "feedback": "Perbaikan lampu lalu lintas sedang dilakukan"
+        },
+        {
+            "id": 24,
+            "laporan_id": 24,
+            "status": "Selesai",
+            "feedback": "Kebakaran hutan sudah dipadamkan"
+        },
+        {
+            "id": 25,
+            "laporan_id": 25,
+            "status": "Dalam pengawasan",
+            "feedback": "Pembersihan sampah di jalan tol sedang direncanakan"
+        }
+    ],
+    "Media_Terpercaya": [
+        {
+            "id_berita": "B001",
+            "judul": "Jalan Utama di Jakarta Pusat Rusak Parah",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-02",
+            "lokasi": "Jakarta Pusat",
+            "ringkasan": "Kerusakan jalan utama menyebabkan kemacetan parah di jam sibuk."
+        },
+        {
+            "id_berita": "B002",
+            "judul": "RSUD Surabaya Jalani Renovasi Besar-Besaran",
+            "sumber": "Detik.com",
+            "tanggal": "2025-09-04",
+            "lokasi": "Surabaya",
+            "ringkasan": "Renovasi RSUD bertujuan meningkatkan layanan kesehatan masyarakat."
+        },
+        {
+            "id_berita": "B003",
+            "judul": "Pemkot Bandung Tambah 100 Bus Trans Baru",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-08-30",
+            "lokasi": "Bandung",
+            "ringkasan": "Pengadaan bus baru dilakukan untuk mengurangi kemacetan."
+        },
+        {
+            "id_berita": "B004",
+            "judul": "Pasar Tradisional Denpasar Kini Lebih Modern",
+            "sumber": "Tribun Bali",
+            "tanggal": "2025-08-25",
+            "lokasi": "Denpasar",
+            "ringkasan": "Revitalisasi pasar tradisional selesai, pedagang senang dengan fasilitas baru."
+        },
+        {
+            "id_berita": "B005",
+            "judul": "Pembangunan Jembatan Baru di Kalimantan Barat Dimulai",
+            "sumber": "Antara News",
+            "tanggal": "2025-09-10",
+            "lokasi": "Pontianak",
+            "ringkasan": "Proyek jembatan akan mempermudah distribusi logistik antar wilayah."
+        },
+        {
+            "id_berita": "B006",
+            "judul": "Warga NTB Kini Nikmati Air Bersih",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-05",
+            "lokasi": "Mataram",
+            "ringkasan": "Program penyediaan air bersih telah berjalan dengan lancar."
+        },
+        {
+            "id_berita": "B007",
+            "judul": "Perluasan Bandara Yogyakarta Dapat Dukungan Publik",
+            "sumber": "Detik.com",
+            "tanggal": "2025-08-29",
+            "lokasi": "Yogyakarta",
+            "ringkasan": "Bandara baru diharapkan mampu menampung lebih banyak penumpang."
+        },
+        {
+            "id_berita": "B008",
+            "judul": "Gedung Sekolah Baru Diresmikan di Medan",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-01",
+            "lokasi": "Medan",
+            "ringkasan": "SMA baru siap menampung lebih dari 1000 siswa."
+        },
+        {
+            "id_berita": "B009",
+            "judul": "Bendungan Karawang Direhabilitasi",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-09-07",
+            "lokasi": "Karawang",
+            "ringkasan": "Proyek rehabilitasi bendungan penting untuk ketahanan pangan."
+        },
+        {
+            "id_berita": "B010",
+            "judul": "Makassar Terapkan Digitalisasi Administrasi",
+            "sumber": "Tribun Timur",
+            "tanggal": "2025-09-06",
+            "lokasi": "Makassar",
+            "ringkasan": "Layanan online mempercepat proses perizinan masyarakat."
+        },
+        {
+            "id_berita": "B011",
+            "judul": "Proyek Rusunawa di Semarang Masuk Tahap Desain",
+            "sumber": "Antara News",
+            "tanggal": "2025-09-03",
+            "lokasi": "Semarang",
+            "ringkasan": "Rusunawa ini ditujukan bagi masyarakat berpenghasilan rendah."
+        },
+        {
+            "id_berita": "B012",
+            "judul": "Jalan Desa di Papua Akan Diperbaiki",
+            "sumber": "Detik.com",
+            "tanggal": "2025-09-08",
+            "lokasi": "Jayapura",
+            "ringkasan": "Peningkatan infrastruktur desa mendukung konektivitas antar kampung."
+        },
+        {
+            "id_berita": "B013",
+            "judul": "Revitalisasi Taman Nasional Bromo Dimulai",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-12",
+            "lokasi": "Probolinggo",
+            "ringkasan": "Revitalisasi dilakukan untuk menjaga kelestarian lingkungan."
+        },
+        {
+            "id_berita": "B014",
+            "judul": "ASDP Tambah Kapal Rute Bali-Lombok",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-08-28",
+            "lokasi": "Padang Bai",
+            "ringkasan": "Pengadaan kapal baru untuk memperlancar transportasi penyeberangan."
+        },
+        {
+            "id_berita": "B015",
+            "judul": "Stadion GBK Rampung Direnovasi",
+            "sumber": "Detik.com",
+            "tanggal": "2025-09-11",
+            "lokasi": "Jakarta",
+            "ringkasan": "Stadion siap dipakai untuk ajang olahraga internasional."
+        },
+        {
+            "id_berita": "B016",
+            "judul": "Internet Desa Kalimantan Mulai Tersambung",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-09",
+            "lokasi": "Samarinda",
+            "ringkasan": "Jaringan internet baru memberikan akses digital bagi warga desa."
+        },
+        {
+            "id_berita": "B017",
+            "judul": "Candi Borobudur Selesai Direstorasi",
+            "sumber": "Antara News",
+            "tanggal": "2025-09-13",
+            "lokasi": "Magelang",
+            "ringkasan": "Candi Borobudur kini lebih siap menyambut wisatawan."
+        },
+        {
+            "id_berita": "B018",
+            "judul": "RSUD Malang Terima Alat Medis Baru",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-09-02",
+            "lokasi": "Malang",
+            "ringkasan": "Pengadaan alat medis mendukung peningkatan layanan kesehatan."
+        },
+        {
+            "id_berita": "B019",
+            "judul": "Banten Bangun Rumah Layak Huni",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-01",
+            "lokasi": "Serang",
+            "ringkasan": "Program rumah layak huni ditujukan bagi masyarakat kurang mampu."
+        },
+        {
+            "id_berita": "B020",
+            "judul": "MRT Jakarta Tahap 2 Segera Dimulai",
+            "sumber": "Detik.com",
+            "tanggal": "2025-09-14",
+            "lokasi": "Jakarta",
+            "ringkasan": "Proyek MRT fase 2 untuk memperluas jaringan transportasi massal."
+        },
+        {
+            "id_berita": "B021",
+            "judul": "Bandung Gencarkan Penghijauan Kota",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-09-05",
+            "lokasi": "Bandung",
+            "ringkasan": "Ribuan pohon baru ditanam untuk menekan polusi udara."
+        },
+        {
+            "id_berita": "B022",
+            "judul": "Renovasi Jembatan Suramadu Dimulai",
+            "sumber": "Antara News",
+            "tanggal": "2025-09-03",
+            "lokasi": "Surabaya-Madura",
+            "ringkasan": "Renovasi jembatan untuk meningkatkan keamanan pengguna jalan."
+        },
+        {
+            "id_berita": "B023",
+            "judul": "Digitalisasi Data Kependudukan Nasional",
+            "sumber": "Kompas.com",
+            "tanggal": "2025-09-07",
+            "lokasi": "Indonesia",
+            "ringkasan": "Ditjen Dukcapil mulai digitalisasi KTP dan KK secara nasional."
+        },
+        {
+            "id_berita": "B024",
+            "judul": "Pelabuhan Bitung Siap Jadi Hub Baru",
+            "sumber": "Tempo.co",
+            "tanggal": "2025-09-10",
+            "lokasi": "Bitung",
+            "ringkasan": "Pelabuhan baru diharapkan meningkatkan ekspor ke Asia Pasifik."
+        },
+        {
+            "id_berita": "B025",
+            "judul": "Energi Surya Mulai Diterapkan di NTT",
+            "sumber": "Detik.com",
+            "tanggal": "2025-09-12",
+            "lokasi": "Kupang",
+            "ringkasan": "Proyek energi terbarukan di NTT mulai beroperasi."
+        }
+    ],
+    "BIG Data Publik": [
+        {
+            "id_proyek": "P001",
+            "nama_proyek": "Pembangunan Jalan Utama Jakarta Pusat",
+            "anggaran": 5000000000,
+            "instansi": "Dinas Pekerjaan Umum Jakarta",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Jakarta Pusat"
+        },
+        {
+            "id_proyek": "P002",
+            "nama_proyek": "Renovasi RSUD Surabaya",
+            "anggaran": 12000000000,
+            "instansi": "Dinas Kesehatan Surabaya",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Surabaya"
+        },
+        {
+            "id_proyek": "P003",
+            "nama_proyek": "Pengadaan Bus Trans Bandung",
+            "anggaran": 8000000000,
+            "instansi": "Dinas Perhubungan Bandung",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Bandung"
+        },
+        {
+            "id_proyek": "P004",
+            "nama_proyek": "Revitalisasi Pasar Tradisional Denpasar",
+            "anggaran": 3000000000,
+            "instansi": "Dinas Perdagangan Denpasar",
+            "tahun": 2025,
+            "progres": "Selesai",
+            "lokasi": "Denpasar"
+        },
+        {
+            "id_proyek": "P005",
+            "nama_proyek": "Pembangunan Jembatan Kalimantan Barat",
+            "anggaran": 25000000000,
+            "instansi": "Kementerian PUPR",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Pontianak"
+        },
+        {
+            "id_proyek": "P006",
+            "nama_proyek": "Penyediaan Air Bersih NTB",
+            "anggaran": 6000000000,
+            "instansi": "Dinas Lingkungan Hidup NTB",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Mataram"
+        },
+        {
+            "id_proyek": "P007",
+            "nama_proyek": "Perluasan Bandara Yogyakarta",
+            "anggaran": 40000000000,
+            "instansi": "Angkasa Pura I",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Yogyakarta"
+        },
+        {
+            "id_proyek": "P008",
+            "nama_proyek": "Pembangunan Gedung Sekolah SMA di Medan",
+            "anggaran": 7000000000,
+            "instansi": "Dinas Pendidikan Medan",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Medan"
+        },
+        {
+            "id_proyek": "P009",
+            "nama_proyek": "Rehabilitasi Bendungan Karawang",
+            "anggaran": 10000000000,
+            "instansi": "Balai Besar Wilayah Sungai",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Karawang"
+        },
+        {
+            "id_proyek": "P010",
+            "nama_proyek": "Digitalisasi Administrasi Pemkot Makassar",
+            "anggaran": 2000000000,
+            "instansi": "Pemkot Makassar",
+            "tahun": 2025,
+            "progres": "Selesai",
+            "lokasi": "Makassar"
+        },
+        {
+            "id_proyek": "P011",
+            "nama_proyek": "Pembangunan Rusunawa Semarang",
+            "anggaran": 15000000000,
+            "instansi": "Kementerian PUPR",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Semarang"
+        },
+        {
+            "id_proyek": "P012",
+            "nama_proyek": "Peningkatan Jalan Desa Papua",
+            "anggaran": 3000000000,
+            "instansi": "Dinas Pekerjaan Umum Papua",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Jayapura"
+        },
+        {
+            "id_proyek": "P013",
+            "nama_proyek": "Revitalisasi Taman Nasional Bromo",
+            "anggaran": 4500000000,
+            "instansi": "Kementerian Lingkungan Hidup",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Probolinggo"
+        },
+        {
+            "id_proyek": "P014",
+            "nama_proyek": "Pengadaan Kapal Penyeberangan Bali-Lombok",
+            "anggaran": 9500000000,
+            "instansi": "ASDP Indonesia Ferry",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Padang Bai"
+        },
+        {
+            "id_proyek": "P015",
+            "nama_proyek": "Renovasi Stadion Utama Gelora Bung Karno",
+            "anggaran": 35000000000,
+            "instansi": "Kemenpora",
+            "tahun": 2025,
+            "progres": "Selesai",
+            "lokasi": "Jakarta"
+        },
+        {
+            "id_proyek": "P016",
+            "nama_proyek": "Pembangunan Jaringan Internet Desa Kalimantan",
+            "anggaran": 12000000000,
+            "instansi": "Kominfo",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Samarinda"
+        },
+        {
+            "id_proyek": "P017",
+            "nama_proyek": "Restorasi Candi Borobudur",
+            "anggaran": 1500000000,
+            "instansi": "Kementerian Kebudayaan",
+            "tahun": 2025,
+            "progres": "Selesai",
+            "lokasi": "Magelang"
+        },
+        {
+            "id_proyek": "P018",
+            "nama_proyek": "Pengadaan Alat Medis RSUD Malang",
+            "anggaran": 5000000000,
+            "instansi": "Dinas Kesehatan Malang",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Malang"
+        },
+        {
+            "id_proyek": "P019",
+            "nama_proyek": "Program Rumah Layak Huni Banten",
+            "anggaran": 9000000000,
+            "instansi": "Dinas Sosial Banten",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Serang"
+        },
+        {
+            "id_proyek": "P020",
+            "nama_proyek": "Pembangunan MRT Tahap 2 Jakarta",
+            "anggaran": 75000000000,
+            "instansi": "MRT Jakarta",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Jakarta"
+        },
+        {
+            "id_proyek": "P021",
+            "nama_proyek": "Penghijauan Kota Bandung",
+            "anggaran": 1800000000,
+            "instansi": "Dinas Lingkungan Hidup Bandung",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Bandung"
+        },
+        {
+            "id_proyek": "P022",
+            "nama_proyek": "Renovasi Jembatan Suramadu",
+            "anggaran": 22000000000,
+            "instansi": "Kementerian PUPR",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Surabaya-Madura"
+        },
+        {
+            "id_proyek": "P023",
+            "nama_proyek": "Digitalisasi Data Kependudukan Nasional",
+            "anggaran": 11000000000,
+            "instansi": "Ditjen Dukcapil",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Indonesia"
+        },
+        {
+            "id_proyek": "P024",
+            "nama_proyek": "Pembangunan Pelabuhan Bitung",
+            "anggaran": 30000000000,
+            "instansi": "Kementerian Perhubungan",
+            "tahun": 2025,
+            "progres": "Pelaksanaan",
+            "lokasi": "Bitung"
+        },
+        {
+            "id_proyek": "P025",
+            "nama_proyek": "Proyek Energi Surya Nusa Tenggara Timur",
+            "anggaran": 27000000000,
+            "instansi": "Kementerian ESDM",
+            "tahun": 2025,
+            "progres": "Perencanaan",
+            "lokasi": "Kupang"
+        }
+    ]
+}
